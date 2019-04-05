@@ -1,0 +1,25 @@
+16
+O A H R B
+u B E R C
+r C L R D
+T D L R E
+u E O R F
+r F _ R G
+i G _ R H
+n H P R I
+g I R R J
+M J O R K
+a K F R L
+c L E R M
+h M S R N
+i N S R O
+n O O R P
+e P R H P
+# Enter the amount of rules,
+# Then enter amount of rules
+# Format: (Current Cell) (Current State) (Set Cell) (Direction) (Next State)
+_ is Erase
+- is leave alone
+L is go left
+R is go right
+H is Halt
